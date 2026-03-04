@@ -18,7 +18,7 @@
 - [ ] Diferencial global
 - [ ] Conceito do Shopping Cruz de Malta
 - [x] Layout e estrutura
-- [ ] Modelo financeiro completo
+- [x] Modelo financeiro completo
 
 ## Fase 3 — Ticketing e Sócios
 - [ ] Definição dos níveis de ticket
