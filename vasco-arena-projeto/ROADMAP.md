@@ -7,9 +7,9 @@
 - [ ] Visão de futuro detalhada
 - [ ] Problema atual documentado
 - [ ] Por que agora?
-- [ ] Jogadores ícone
-- [ ] Momentos épicos
-- [ ] Valores do Vasco
+- [x] Jogadores ícone
+- [x] Momentos épicos
+- [x] Valores do Vasco
 
 ## Fase 2 — Conceito e Modelo
 - [ ] Conceito geral da arena
