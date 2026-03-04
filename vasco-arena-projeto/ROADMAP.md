@@ -16,7 +16,7 @@
 - [ ] Arena vs Estádio tradicional
 - [x] Experiência do torcedor
 - [ ] Diferencial global
-- [ ] Conceito do Shopping Cruz de Malta
+- [x] Conceito do Shopping Cruz de Malta
 - [x] Layout e estrutura
 - [x] Modelo financeiro completo
 
@@ -34,9 +34,9 @@
 
 ## Fase 5 — Operacional
 - [x] Governança definida
-- [ ] Base jurídica
-- [ ] Mapeamento de riscos
-- [ ] Próximos passos concretos
+- [x] Base jurídica
+- [x] Mapeamento de riscos
+- [x] Próximos passos concretos
 
 ## Fase 6 — Design e Tecnologia
 - [ ] Assets visuais e renders
