@@ -12,12 +12,12 @@
 - [x] Valores do Vasco
 
 ## Fase 2 — Conceito e Modelo
-- [ ] Conceito geral da arena
+- [x] Conceito geral da arena
 - [ ] Arena vs Estádio tradicional
-- [ ] Experiência do torcedor
+- [x] Experiência do torcedor
 - [ ] Diferencial global
 - [ ] Conceito do Shopping Cruz de Malta
-- [ ] Layout e estrutura
+- [x] Layout e estrutura
 - [ ] Modelo financeiro completo
 
 ## Fase 3 — Ticketing e Sócios
