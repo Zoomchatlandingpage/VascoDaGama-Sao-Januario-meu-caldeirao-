@@ -27,10 +27,10 @@
 - [ ] Programa digital de sócios
 
 ## Fase 4 — Marketing e Ativação
-- [ ] Fase 1: Organizadas
-- [ ] Fase 2: Influenciadores
-- [ ] Fase 3: Boca do povo
-- [ ] Narrativa pública
+- [x] Fase 1: Organizadas
+- [x] Fase 2: Influenciadores
+- [x] Fase 3: Boca do povo
+- [x] Narrativa pública
 
 ## Fase 5 — Operacional
 - [x] Governança definida
