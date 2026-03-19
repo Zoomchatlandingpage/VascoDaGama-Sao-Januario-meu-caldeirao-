@@ -5,8 +5,8 @@
 - [x] Carta à torcida
 - [x] História de São Januário
 - [ ] Visão de futuro detalhada
-- [ ] Problema atual documentado
-- [ ] Por que agora?
+- [x] Problema atual documentado
+- [x] Por que agora?
 - [x] Jogadores ícone
 - [x] Momentos épicos
 - [x] Valores do Vasco
@@ -16,27 +16,27 @@
 - [ ] Arena vs Estádio tradicional
 - [x] Experiência do torcedor
 - [ ] Diferencial global
-- [ ] Conceito do Shopping Cruz de Malta
+- [x] Conceito do Shopping Cruz de Malta
 - [x] Layout e estrutura
 - [x] Modelo financeiro completo
 
 ## Fase 3 — Ticketing e Sócios
-- [ ] Definição dos níveis de ticket
-- [ ] Benefícios por nível
+- [x] Definição dos níveis de ticket
+- [x] Benefícios por nível
 - [ ] Sistema de acesso dias de jogo
 - [ ] Programa digital de sócios
 
 ## Fase 4 — Marketing e Ativação
-- [ ] Fase 1: Organizadas
-- [ ] Fase 2: Influenciadores
-- [ ] Fase 3: Boca do povo
-- [ ] Narrativa pública
+- [x] Fase 1: Organizadas
+- [x] Fase 2: Influenciadores
+- [x] Fase 3: Boca do povo
+- [x] Narrativa pública
 
 ## Fase 5 — Operacional
-- [ ] Governança definida
-- [ ] Base jurídica
-- [ ] Mapeamento de riscos
-- [ ] Próximos passos concretos
+- [x] Governança definida
+- [x] Base jurídica
+- [x] Mapeamento de riscos
+- [x] Próximos passos concretos
 
 ## Fase 6 — Design e Tecnologia
 - [ ] Assets visuais e renders
